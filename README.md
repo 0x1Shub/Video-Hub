@@ -1,3 +1,15 @@
+# About Project
+This project is developed using ReactJS and with the help of [Chakra UI](https://chakra-ui.com/).
+<br />
+You can able to access my project here [video-hub](https://video-hub-five-beta.vercel.app)
+
+# What is Chakra UI ?
+Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
+Building accessible and responsive UIs is crucial for ensuring an inclusive user experience. Chakra UI prioritizes accessibility and provides built-in accessibility features like screen reader support, ARIA attributes, and keyboard navigation.
+
+# Difference between Chakra UI and Bootstrap 
+Bootstrap Styled belongs to "Front-End Frameworks" category of the tech stack, while Chakra UI can be primarily classified under "UI Components". 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
